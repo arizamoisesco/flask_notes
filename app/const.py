@@ -1,0 +1,8 @@
+LOGIN_REQUIRED = 'Es necesario iniciar sesión'
+USER_CREATED = 'Usuario creado exitosamente'
+LOGOUT = 'Cerraste sesión exitosamente'
+ERROR_USER_PASSWORD = 'Usuario o contraseña incorrecta'
+LOGIN = 'Usuario autenticado exitosamente'
+TASK_CREATED = 'Tarea creada exitosamente'
+TASK_UPDATE = 'Tarea actualizada con exito'
+TASK_DELETE = 'Tarea eliminda exitosamente'
