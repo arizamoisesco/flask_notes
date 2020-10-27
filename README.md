@@ -1,2 +1,2 @@
 # flask_notes
-Este repo almacena un TODOITS realizado con el framework flask de Python.
+Este repositorio almacena un TODOITS realizado con el framework flask de Python.
