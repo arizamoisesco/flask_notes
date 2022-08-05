@@ -10,7 +10,7 @@ class DevelopmentConfig(Config):
     MAIL_PORT = 587
     MAIL_USE_TLS = True
     MAIL_USERNAME = 'arizamoises@gmail.com'
-    MAIL_PASSWORD = 'f41ryt41l'
+    MAIL_PASSWORD = ''
 
 config = {
     'development': DevelopmentConfig,
